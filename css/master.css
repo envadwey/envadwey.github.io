@@ -408,18 +408,6 @@ p {
         flex-direction: column;
         gap: 60px;
     }
-    .card-1{
-        -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-        flex-direction: column;
-        gap: 60px;
-    }
-    .cards-1{
-        -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-        flex-direction: column;
-        gap: 60px;  
-    }
     .works{
         -webkit-flex-direction: column;
         -ms-flex-direction: column;
