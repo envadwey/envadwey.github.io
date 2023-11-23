@@ -103,11 +103,11 @@ header{
 }
 
 .avatar{
-    width: 390px;
-    height: 390px;
+    width: 400px;
+    height: 400px;
     background: #fff;
     border-radius: 100%;
-    /*background: url(../img/your_photo.png);*/
+    background: url(../img/me.jpg);
 }
 
 .bottom h1{
